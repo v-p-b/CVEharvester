@@ -1,0 +1,10 @@
+CVEharvester.sh
+===============
+
+Harvests CVE tickets mentioned at a given URL then checks if the ticket not in RESERVED status.
+
+Usage:
+
+./CVEharvester.sh [URL-to-harvest-from]
+
+
